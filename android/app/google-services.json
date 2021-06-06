@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "214352109305",
+    "project_id": "stitchesfinal",
+    "storage_bucket": "stitchesfinal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214352109305:android:aec8ae80d654a8601f8c28",
+        "android_client_info": {
+          "package_name": "com.geek.stitches_hackathon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214352109305-15ilfve1alokocof73hjickmtv2aos1g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6wmkd36BmzgzEMUPGTFBUTHRhIgVfS9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "214352109305-15ilfve1alokocof73hjickmtv2aos1g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214352109305:android:a152615b231e2a1d1f8c28",
+        "android_client_info": {
+          "package_name": "com.geeks.stitches_hackathon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214352109305-15ilfve1alokocof73hjickmtv2aos1g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6wmkd36BmzgzEMUPGTFBUTHRhIgVfS9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "214352109305-15ilfve1alokocof73hjickmtv2aos1g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
